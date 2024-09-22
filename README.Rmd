@@ -17,3 +17,32 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
+# Lab1 Notes Adam Grimm
+
+## Initial Mess-up
+
+### I should have joined group thirteen, but I didn't see the annoucement that groups had been assigned to people who were not able to make it to class, So i created by own branch (group 14).
+
+### I still met with my group (13) 9/22/24, and I walked through the Lab with Pranava and Amaya and just did the Lab in my own branched group.
+
+## 12.2 Make a repo on Github
+- **Created my own group/repo - instead of joining the correct group/repo - Whoops**
+- **Still met with my group Sunday 9/22/24 and walked through the Lab with them**
+
+## 12.3 Clone the test GitHub Repository to your computer via Rstudio
+- **No issues with this step**
+
+## 12.4 Make local changes, save, commit
+- **I struggled figuring out how I was supposed to change the README.md and tried to commit changes.It told me "Nothing to commit, working tree clean"**
+- **I tried moving on to push changes, but I got an error, "Everything up to date"**
+- **I realized I could click on the README.md to open it and change it, and I added the line from the book that we were supposed to add**
+- **I clicked the sign commit when trying to commit it the second time and got a bunch of errors "No secret Key" ect... so I un-clicked "sign commit" and it worked. (1 file changed, 2 insertions(+))**
+
+## 12.5 Push your local changes online to GitHub
+- **Pushing the change the second time around worked and I got “To https://github.com/DS202-at-ISU/lab-1-team-14.gitbaef7e4..53c941f  HEAD -> main” as a response.**
+- **I confirmed the the README.md had been updated on Git hub**
+- **I think everything went smoothly for me excluding making my own group on accident.**
+   
+
+
